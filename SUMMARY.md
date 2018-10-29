@@ -13,6 +13,16 @@
 * [Bash](programming-languages/bash.md)
 * [Python](programming-languages/python.md)
 
+## Version control
+
+* [git](version-control/git.md)
+* [GitHub](version-control/github.md)
+* [SVN](version-control/subversion.md)
+
+## Notes
+
+* [Note editors](notes/editors.md)
+
 ## Cloud
 
 * [Storage](cloud/storage.md)
