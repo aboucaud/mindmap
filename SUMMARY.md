@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Personal mindmap](README.md)
+* [About](about.md)
 
 ## Programming languages
 
