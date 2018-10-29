@@ -21,11 +21,12 @@
 
 ## Notes
 
-* [Note editors](notes/editors.md)
+* [editors](notes/editors.md)
 
 ## Cloud
 
-* [Storage](cloud/storage.md)
+* [storage](cloud/storage.md)
+* [computing](cloud/computing.md)
 
 ## Configuration
 
