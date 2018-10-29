@@ -2,10 +2,10 @@
 
 ### Online pads
 
-**Blog like output**  
+**Blog like output**
 - [rwtxt](https://rwtxt.com/rwtxt/about)
 
-**Collaborative pads**  
+**Collaborative pads**
 - [Framapad](https://framapad.org)
 - [Etherpad](https://github.com/ether/etherpad-lite)
 
