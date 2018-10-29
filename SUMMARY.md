@@ -5,6 +5,6 @@
 ## Programming languages
 
 * [Rust](programming-languages/rust.md)
-* [Bash](programming-languages/untitled-1.md)
+* [Bash](programming-languages/bash.md)
 * [Python](programming-languages/python.md)
 
