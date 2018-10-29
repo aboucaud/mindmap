@@ -8,3 +8,7 @@
 * [Bash](programming-languages/bash.md)
 * [Python](programming-languages/python.md)
 
+## Cloud
+
+* [Storage](cloud/storage.md)
+
