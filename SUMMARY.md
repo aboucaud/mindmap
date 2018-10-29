@@ -29,7 +29,7 @@
 
 ## Configuration
 
-* [Dotfiles](configuration/dotfiles.md)
+* [dotfiles](configuration/dotfiles.md)
 
 ## Command-line tools
 
