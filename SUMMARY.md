@@ -4,7 +4,7 @@
 
 ## Programming languages
 
-* [Rust](languages/rust.md)
-* [Bash](languages/untitled-1.md)
-* [Python](languages/python.md)
+* [Rust](programming-languages/rust.md)
+* [Bash](programming-languages/untitled-1.md)
+* [Python](programming-languages/python.md)
 
