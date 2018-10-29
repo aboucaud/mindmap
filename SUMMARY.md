@@ -1,9 +1,10 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Personal mindmap](README.md)
 
 ## Programming languages
 
 * [Rust](languages/rust.md)
 * [Bash](languages/untitled-1.md)
+* [Python](languages/python.md)
 
