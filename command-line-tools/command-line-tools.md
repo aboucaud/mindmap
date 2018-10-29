@@ -1,8 +1,9 @@
-# Command line tools
+# CLI tools
 
-- bat
-- fd
-- hub
-- ripgrep
-- tldr
-- youtube-dl
+* bat
+* fd
+* hub
+* ripgrep
+* tldr
+* youtube-dl
+
