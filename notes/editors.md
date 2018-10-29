@@ -9,7 +9,6 @@
 - [Framapad](https://framapad.org)
 - [Etherpad](https://github.com/ether/etherpad-lite)
 
-
 ### Markdown editing apps
 
 - [nvALT](http://brettterpstra.com/projects/nvalt/) - **macOS only** - _organisation & sync of markdown notes_  
