@@ -5,5 +5,5 @@
 ## languages
 
 * [Rust](languages/rust.md)
-* [Untitled](languages/untitled-1.md)
+* [Bash](languages/untitled-1.md)
 
