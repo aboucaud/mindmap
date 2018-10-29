@@ -2,7 +2,7 @@
 
 * [Initial page](README.md)
 
-## languages
+## Programming languages
 
 * [Rust](languages/rust.md)
 * [Bash](languages/untitled-1.md)
