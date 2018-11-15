@@ -2,4 +2,4 @@
 
 * [Probably Overthinking it](https://www.allendowney.com/blog/) by Allen Downey
 * [Pythonic Preambulations](http://jakevdp.github.io/) by Jake VanderPlas
-
+* [_Nicolas Hug_](http://nicolas-hug.com/blog/)
