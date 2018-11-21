@@ -3,20 +3,6 @@
 * [Personal mindmap](README.md)
 * [About](about.md)
 
-## Data science
-
-* [data analysis](data-science/data-analysis.md)
-* [data challenges](data-science/data-challenges.md)
-
-## macOS
-
-* [security](macos/security.md)
-
-## Notes
-
-* [editors](notes/editors.md)
-
-
 ## Computer science
 
 * [Cloud](cloud/index.md)
@@ -35,7 +21,7 @@
 * [Programming languages](programming-languages/index.md)
   * [C++](programming-languages/cpp.md)
   * [Bash](programming-languages/bash.md)
-  * [Python](programming-languages/python.md)
+  * [Python](programming-languages/python/index.md)
     * [blogs](programming-languages/python/blogs.md)
     * [design patterns](programming-languages/python/idioms.md)
     * [logging](programming-languages/python/logging.md)
@@ -50,10 +36,19 @@
   * [code snippets](visualisation/code-snippets.md)
   * [colors](visualisation/colors.md)
 
+## macOS
+
+* [Security](macos/security.md)
+* [Editors](macos/editors.md)
+
 ## Statistics
 
-* [blogs](statistics/stat-blogs.md)
-* [deep learning](statistics/deep-learning.md)
+* [Blogs](statistics/stat-blogs.md)
+* [Bayes](statistics/bayes.md)
+* [Data analysis](statistics/data-analysis.md)
+* [Data challenges](statistics/data-challenges.md)
+* [Machine learning](statistics/machine-learning.md)
+* [Deep learning](statistics/deep-learning.md)
 
 
 
