@@ -27,7 +27,7 @@
 
 ## macOS
 
-* [security](macOS/security.md)
+* [security](macos/security.md)
 
 ## Notes
 
@@ -59,3 +59,4 @@
 
 * [code snippets](visualisation/code-snippets.md)
 * [colors](visualisation/colors.md)
+
