@@ -42,6 +42,9 @@
 * [C++](programming-languages/cpp.md)
 * [Bash](programming-languages/bash.md)
 * [Python](programming-languages/python.md)
+  * [blogs](programming-languages/python/blogs.md)
+  * [design patterns](programming-languages/python/idioms.md)
+  * [logging](programming-languages/python/logging.md)
 * [Rust](programming-languages/rust.md)
 
 ## Statistics
