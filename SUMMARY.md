@@ -3,23 +3,6 @@
 * [Personal mindmap](README.md)
 * [About](about.md)
 
-## Cloud
-
-* [storage](cloud/storage.md)
-* [computing](cloud/computing.md)
-
-## Command-line tools
-
-* [CLI tools](command-line-tools/command-line-tools.md)
-
-## Configuration
-
-* [dotfiles](configuration/dotfiles.md)
-
-## Continuous integration
-
-* [Circle CI](continuous-integration/circle-ci.md)
-
 ## Data science
 
 * [data analysis](data-science/data-analysis.md)
@@ -33,33 +16,44 @@
 
 * [editors](notes/editors.md)
 
-## Presentations
+
+## Computer science
+
+* [Cloud](cloud/index.md)
+  * [storage](cloud/storage.md)
+  * [computing](cloud/computing.md)
+
+* [Continuous integration](continuous-integration/index.md)
+  * [Circle CI](continuous-integration/circle-ci.md)
+  * [Travis](continuous-integration/travis.md)
+  * [GitLab CI](continuous-integration/gitlab-ci.md)
+
+* [Dotfiles](configuration/dotfiles.md)
 
 * [HTML slides](presentations/html-slides.md)
 
-## Programming languages
+* [Programming languages](programming-languages/index.md)
+  * [C++](programming-languages/cpp.md)
+  * [Bash](programming-languages/bash.md)
+  * [Python](programming-languages/python.md)
+    * [blogs](programming-languages/python/blogs.md)
+    * [design patterns](programming-languages/python/idioms.md)
+    * [logging](programming-languages/python/logging.md)
+  * [Rust](programming-languages/rust.md)
 
-* [C++](programming-languages/cpp.md)
-* [Bash](programming-languages/bash.md)
-* [Python](programming-languages/python.md)
-  * [blogs](programming-languages/python/blogs.md)
-  * [design patterns](programming-languages/python/idioms.md)
-  * [logging](programming-languages/python/logging.md)
-* [Rust](programming-languages/rust.md)
+* [Version control](version-control/index.md)
+  * [git](version-control/git.md)
+  * [GitHub](version-control/github.md)
+  * [SVN](version-control/subversion.md)
+
+* [Visualisation](visualisation/index.md)
+  * [code snippets](visualisation/code-snippets.md)
+  * [colors](visualisation/colors.md)
 
 ## Statistics
 
 * [blogs](statistics/stat-blogs.md)
 * [deep learning](statistics/deep-learning.md)
 
-## Version control
 
-* [git](version-control/git.md)
-* [GitHub](version-control/github.md)
-* [SVN](version-control/subversion.md)
-
-## Visualisation
-
-* [code snippets](visualisation/code-snippets.md)
-* [colors](visualisation/colors.md)
 
