@@ -23,6 +23,7 @@
   * [Bash](programming-languages/bash.md)
   * [Python](programming-languages/python/index.md)
     * [blogs](programming-languages/python/blogs.md)
+    * [cli](programming-languages/python/cli.md)
     * [design patterns](programming-languages/python/idioms.md)
     * [logging](programming-languages/python/logging.md)
   * [Rust](programming-languages/rust.md)
