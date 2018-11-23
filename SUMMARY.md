@@ -18,6 +18,9 @@
 
 * [HTML slides](presentations/html-slides.md)
 
+* [Programming](programming/index.md)
+  * [Paradigms](programming/paradigms.md)
+
 * [Programming languages](programming-languages/index.md)
   * [C++](programming-languages/cpp.md)
   * [Bash](programming-languages/bash.md)
