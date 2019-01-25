@@ -44,10 +44,13 @@
   * [code snippets](visualisation/code-snippets.md)
   * [colors](visualisation/colors.md)
 
-## macOS
+## Operating Systems
 
-* [Security](macos/security.md)
-* [Editors](macos/editors.md)
+* [Linux]
+  * [Security](linux/security.md)
+* [macOS]
+  * [Security](macos/security.md)
+  * [Editors](macos/editors.md)
 
 ## Maths & Statistics
 
