@@ -5,6 +5,7 @@
 [Datascience Master course, Paris-Saclay](https://m2dsupsdlclass.github.io/lectures-labs/) - _Olivier Grisel & Charles Ollion_  
 [CS 231, Stanford](http://cs231n.github.io) - _Andrej Karpathy_  
 [TensorFlow without a PhD](https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd) - _Martin Gorner_
+[Deep learning with PyTorch1.0, EPFL](https://fleuret.org/ee559/) - _François Fleuret_ (2019)
 
 ## Online books
 

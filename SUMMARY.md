@@ -9,10 +9,15 @@
   * [storage](cloud/storage.md)
   * [computing](cloud/computing.md)
 
+* [Configuration](configuration/index.md)
+  * [dotfiles](configuration/dotfiles.md)
+  * [fonts](configuration/fonts.md)
+  * [job-scheduling](configuration/job-scheduling.md)
+
 * [Continuous integration](continuous-integration/index.md)
   * [Circle CI](continuous-integration/circle-ci.md)
-  * [Travis](continuous-integration/travis.md)
   * [GitLab CI](continuous-integration/gitlab-ci.md)
+  * [Travis](continuous-integration/travis.md)
 
 * [Dotfiles](configuration/dotfiles.md)
 
@@ -22,8 +27,9 @@
   * [Paradigms](programming/paradigms.md)
 
 * [Programming languages](programming-languages/index.md)
-  * [C++](programming-languages/cpp.md)
   * [Bash](programming-languages/bash.md)
+  * [C++](programming-languages/cpp.md)
+  * [Java](programming-languages/java.md)
   * [Python](programming-languages/python/index.md)
     * [blogs](programming-languages/python/blogs.md)
     * [cli](programming-languages/python/cli.md)
@@ -45,7 +51,7 @@
 * [Security](macos/security.md)
 * [Editors](macos/editors.md)
 
-## Statistics
+## Maths & Statistics
 
 * [Blogs](statistics/stat-blogs.md)
 * [Bayes](statistics/bayes.md)
@@ -53,6 +59,4 @@
 * [Data challenges](statistics/data-challenges.md)
 * [Machine learning](statistics/machine-learning.md)
 * [Deep learning](statistics/deep-learning.md)
-
-
-
+* [Signal processing](signal-processing/digital-signal-processing.md)
