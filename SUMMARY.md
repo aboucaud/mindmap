@@ -19,8 +19,6 @@
   * [GitLab CI](continuous-integration/gitlab-ci.md)
   * [Travis](continuous-integration/travis.md)
 
-* [Dotfiles](configuration/dotfiles.md)
-
 * [HTML slides](presentations/html-slides.md)
 
 * [Programming](programming/index.md)
