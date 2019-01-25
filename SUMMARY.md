@@ -46,9 +46,9 @@
 
 ## Operating Systems
 
-* [Linux]
+* [Linux](linux/index.md)
   * [Security](linux/security.md)
-* [macOS]
+* [macOS](macos/index.md)
   * [Security](macos/security.md)
   * [Editors](macos/editors.md)
 
