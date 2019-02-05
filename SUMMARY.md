@@ -23,6 +23,7 @@
 
 * [Programming](programming/index.md)
   * [Paradigms](programming/paradigms.md)
+  * [Regular expressions](programming/regex.md)
 
 * [Programming languages](programming-languages/index.md)
   * [Bash](programming-languages/bash.md)
