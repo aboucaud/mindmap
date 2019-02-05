@@ -62,3 +62,4 @@
 * [Machine learning](statistics/machine-learning.md)
 * [Deep learning](statistics/deep-learning.md)
 * [Signal processing](signal-processing/digital-signal-processing.md)
+* [Quantitative economics](economics/quant.md)
