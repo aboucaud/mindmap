@@ -32,3 +32,14 @@
 
 [Machine learning for physicists](https://arxiv.org/abs/1803.08823) [Understanding DNNs](https://arxiv.org/abs/1803.08834)
 
+
+## TensorFlow
+
+[MIT introduction to Deep Learning](https://medium.com/tensorflow/mit-introduction-to-deep-learning-4a6f8dde1f0c?linkId=64189766)  
+[Introducing TensorFlow datasets](https://medium.com/tensorflow/introducing-tensorflow-datasets-c7f01f7e19f3) \(2019\)  
+[An intuitive guide to Convolutional Neural Networks](https://medium.freecodecamp.org/an-intuitive-guide-to-convolutional-neural-networks-260c2de0a050)  
+
+## PyTorch
+
+[PyTorch "Zero to GANs"](https://medium.com/jovian-io/pytorch-basics-tensors-and-gradients-eb2f6e8a6eee)  
+[Bayesian NNs with Pyro and PyTorch](https://towardsdatascience.com/making-your-neural-network-say-i-dont-know-bayesian-nns-using-pyro-and-pytorch-b1c24e6ab8cd) _Paras Chopra_ \(Nov 2018\)  

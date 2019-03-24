@@ -10,3 +10,8 @@
 * [Build your own shell with Rust](https://www.joshmcguigan.com/blog/build-your-own-shell-rust/) - _Josh McGuigan_ \(Nov 2018\)
 * [Writing an OS in Rust](https://os.phil-opp.com/) - _Philipp Oppermann_ \(2018\)
 * [Evolution of a Rust programmer](http://antoyo.ml/evolution-rust-programmer) - _Antoni Boucher_ \(2019\)
+* [Implementing a NES Emulator in Rust](http://www.michaelburge.us/2019/03/18/nes-design.html) - _Michael Burge_ \(2019\)
+
+## Tutorials
+
+* [Gentle Introduction to Rust](https://stevedonovan.github.io/rust-gentle-intro/readme.html) - _Steve Donovan_

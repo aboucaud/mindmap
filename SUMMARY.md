@@ -22,6 +22,7 @@
 * [HTML slides](presentations/html-slides.md)
 
 * [Programming](programming/index.md)
+  * [Databases](programming/data-bases.md)
   * [Paradigms](programming/paradigms.md)
   * [Regular expressions](programming/regex.md)
 
@@ -29,11 +30,13 @@
   * [Bash](programming-languages/bash.md)
   * [C++](programming-languages/cpp.md)
   * [Java](programming-languages/java.md)
+  * [Julia](programming-languages/julia.md)
   * [Python](programming-languages/python/index.md)
     * [blogs](programming-languages/python/blogs.md)
     * [cli](programming-languages/python/cli.md)
     * [design patterns](programming-languages/python/idioms.md)
     * [logging](programming-languages/python/logging.md)
+    * [typing](programming-languages/python/typing.md)
   * [Rust](programming-languages/rust.md)
 
 * [Version control](version-control/index.md)
@@ -60,6 +63,7 @@
 * [Bayes](statistics/bayes.md)
 * [Data analysis](statistics/data-analysis.md)
 * [Data challenges](statistics/data-challenges.md)
+* [Linear Algebra](maths/linear-algebra.md)
 * [Machine learning](statistics/machine-learning.md)
 * [Deep learning](statistics/deep-learning.md)
 * [Signal processing](signal-processing/digital-signal-processing.md)
