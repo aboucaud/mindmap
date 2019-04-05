@@ -13,6 +13,7 @@
 
 ### Markdown editing apps
 
+* [Jolplin](https://github.com/laurent22/joplin/) - macOS, iOS, Linux & Windows - _organisation & sync of markdown notes_
 * [nvALT](http://brettterpstra.com/projects/nvalt/) - **macOS only** - _organisation & sync of markdown notes_  
 
     tutorial in [French](http://aya.io/blog/nvalt-prise-de-notes/) \| [English](http://bettermess.com/plain-text-primer-nvalt-101/)
