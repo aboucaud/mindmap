@@ -36,6 +36,7 @@
     * [cli](programming-languages/python/cli.md)
     * [design patterns](programming-languages/python/idioms.md)
     * [logging](programming-languages/python/logging.md)
+    * [optimisation](programming-languages/python/optimisation.md)
     * [typing](programming-languages/python/typing.md)
   * [Rust](programming-languages/rust.md)
 
