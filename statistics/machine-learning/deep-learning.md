@@ -30,7 +30,8 @@
 
 ## Recent reviews \(2018\)
 
-[Machine learning for physicists](https://arxiv.org/abs/1803.08823) [Understanding DNNs](https://arxiv.org/abs/1803.08834)
+[Machine learning for physicists](https://arxiv.org/abs/1803.08823)  
+[Understanding DNNs](https://arxiv.org/abs/1803.08834)
 
 
 ## TensorFlow
