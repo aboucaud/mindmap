@@ -38,6 +38,7 @@
     * [logging](programming-languages/python/logging.md)
     * [optimisation](programming-languages/python/optimisation.md)
     * [typing](programming-languages/python/typing.md)
+    * [virtual environments](programming-languages/python/virtual-envs.md)
   * [Rust](programming-languages/rust.md)
 
 * [Version control](version-control/index.md)
@@ -66,6 +67,8 @@
 * [Data challenges](statistics/data-challenges.md)
 * [Linear Algebra](maths/linear-algebra.md)
 * [Machine learning](statistics/machine-learning.md)
-* [Deep learning](statistics/deep-learning.md)
+  * [Deep learning](statistics/machine-learning/deep-learning.md)
+  * [Loss](statistics/machine-learning/loss.md)
+  * [Optimisation](statistics/machine-learning/optimisation.md)
 * [Signal processing](signal-processing/digital-signal-processing.md)
 * [Quantitative economics](economics/quant.md)
