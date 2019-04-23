@@ -6,3 +6,4 @@
 ## Specific libraries 
 
 * [loguru](https://github.com/Delgan/loguru)
+* [PySnooper](https://github.com/cool-RR/PySnooper)
