@@ -37,6 +37,8 @@
     * [design patterns](programming-languages/python/idioms.md)
     * [logging](programming-languages/python/logging.md)
     * [optimisation](programming-languages/python/optimisation.md)
+    * [packaging](programming-languages/python/packaging.md)
+    * [security](programming-languages/python/security.md)
     * [typing](programming-languages/python/typing.md)
     * [virtual environments](programming-languages/python/virtual-envs.md)
   * [Rust](programming-languages/rust.md)
