@@ -21,6 +21,8 @@
 
 * [HTML slides](presentations/html-slides.md)
 
+* [Management](management/management.md)
+
 * [Programming](programming/index.md)
   * [Databases](programming/data-bases.md)
   * [Paradigms](programming/paradigms.md)
