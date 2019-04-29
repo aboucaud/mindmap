@@ -53,6 +53,7 @@
 * [Visualisation](visualisation/index.md)
   * [code snippets](visualisation/code-snippets.md)
   * [colors](visualisation/colors.md)
+  * [drawings](visualisation/drawings.md)
 
 ## Operating Systems
 
