@@ -37,6 +37,7 @@
     * [blogs](programming-languages/python/blogs.md)
     * [cli](programming-languages/python/cli.md)
     * [design patterns](programming-languages/python/idioms.md)
+    * [distributed computing](programming-languages/python/distributed.md)
     * [logging](programming-languages/python/logging.md)
     * [optimisation](programming-languages/python/optimisation.md)
     * [packaging](programming-languages/python/packaging.md)
