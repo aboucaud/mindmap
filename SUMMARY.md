@@ -25,6 +25,7 @@
 
 * [Programming](programming/index.md)
   * [Databases](programming/data-bases.md)
+  * [HPC](programming/hpc.md)
   * [Paradigms](programming/paradigms.md)
   * [Regular expressions](programming/regex.md)
 
