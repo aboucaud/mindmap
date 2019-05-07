@@ -7,6 +7,7 @@
 ## Cheatsheet
 
 * [Rust cheatsheet](https://upsuper.github.io/rust-cheatsheet/)
+* [Learning Rust](https://github.com/ctjhoa/rust-learning)
 
 ## Blogs
 
