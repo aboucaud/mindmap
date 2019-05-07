@@ -3,6 +3,7 @@
 ## Libraries
 
 * [regex](https://github.com/rust-lang/regex)
+* [Python-Rust integration](https://github.com/PyO3/setuptools-rust)
 
 ## Cheatsheet
 
