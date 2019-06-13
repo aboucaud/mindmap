@@ -31,6 +31,7 @@
   * [Regular expressions](programming/regex.md)
 
 * [Programming languages](programming-languages/index.md)
+  * [Awk](programming-languages/awk.md)
   * [Bash](programming-languages/bash.md)
   * [C++](programming-languages/cpp.md)
   * [Java](programming-languages/java.md)
