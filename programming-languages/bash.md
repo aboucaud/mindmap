@@ -7,5 +7,7 @@
 * [Creating a BASH completion script](https://iridakos.com/tutorials/2018/03/01/bash-programmable-completion-tutorial) \(2018\)
 * [Decoded list of GNU coreutils](http://www.maizure.org/projects/decoded-gnu-coreutils/index.html) \(2018\)
 
+* [Data Science at the Command Line](https://www.datascienceatthecommandline.com/) by _Jeroen Janssens_ \(2019\)
+
 ## Repositories
 
