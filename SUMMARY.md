@@ -8,6 +8,7 @@
 * [Cloud](cloud/index.md)
   * [storage](cloud/storage.md)
   * [computing](cloud/computing.md)
+  * [mailers](cloud/email.md)
 
 * [Configuration](configuration/index.md)
   * [dotfiles](configuration/dotfiles.md)
