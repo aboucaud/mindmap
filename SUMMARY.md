@@ -22,7 +22,9 @@
 
 * [HTML slides](presentations/html-slides.md)
 
-* [Management](management/management.md)
+* [Management](management/index.md)
+  * [Personal development](management/personal-dev.md)
+  * [Team management](management/management.md)
 
 * [Programming](programming/index.md)
   * [Databases](programming/data-bases.md)
