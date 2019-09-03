@@ -30,6 +30,7 @@
   * [Databases](programming/data-bases.md)
   * [HPC](programming/hpc.md)
   * [Paradigms](programming/paradigms.md)
+  * [Pipelines]([programming/pipelines.md])
   * [Regular expressions](programming/regex.md)
 
 * [Programming languages](programming-languages/index.md)
