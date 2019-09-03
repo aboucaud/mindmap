@@ -50,6 +50,7 @@
     * [testing](programming-languages/python/testing.md)
     * [typing](programming-languages/python/typing.md)
     * [virtual environments](programming-languages/python/virtual-envs.md)
+  * [R](programming-languages/r.md)
   * [Rust](programming-languages/rust.md)
 
 * [Version control](version-control/index.md)
