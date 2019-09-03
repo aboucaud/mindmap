@@ -21,6 +21,7 @@
 [_Andrej Karpathy_](http://karpathy.github.io)  
 [2017 DL achievements](https://blog.statsbot.co/deep-learning-achievements-4c563e034257) - _Eduard Tyantov_  
 [Visual introduction to DL](https://hadrienj.github.io/posts/Deep-Learning-Book-Series-Introduction/) - _Hadrien J._  
+[Dragan Rocks](https://dragan.rocks/) - _Dragan Djuric_
 
 ## Github repositories
 
