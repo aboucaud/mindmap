@@ -63,6 +63,7 @@
   * [code snippets](visualisation/code-snippets.md)
   * [colors](visualisation/colors.md)
   * [drawings](visualisation/drawings.md)
+  * [plotting](visualisation/plotting.md)
 
 ## Operating Systems
 
