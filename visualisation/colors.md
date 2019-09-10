@@ -5,3 +5,5 @@
 * [Understanding colors](https://www.blenderguru.com/tutorials/understanding-colors)
 * [Colors in CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value) _by Mozilla_
 * [HSL color picker](http://hslpicker.com/)
+
+* [Leon-Sans a font made with code](https://leon-kim.com/examples)
