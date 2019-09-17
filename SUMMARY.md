@@ -47,6 +47,7 @@
     * [logging](programming-languages/python/logging.md)
     * [optimisation](programming-languages/python/optimisation.md)
     * [packaging](programming-languages/python/packaging.md)
+    * [profiling](programming-languages/python/profiling.md)
     * [security](programming-languages/python/security.md)
     * [testing](programming-languages/python/testing.md)
     * [typing](programming-languages/python/typing.md)
