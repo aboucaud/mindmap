@@ -7,3 +7,4 @@
 ## Workflows
 
 * [Stacked pull-requests](https://graysonkoonce.com/stacked-pull-requests-keeping-github-diffs-small/) \(2016\)
+* [Fixup and autosquash](https://fle.github.io/git-tip-keep-your-branch-clean-with-fixup-and-autosquash.html) - _Florian Lebreton_
