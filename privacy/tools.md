@@ -6,6 +6,7 @@
 * [Rise Up](https://riseup.net/)
 * [Disroot](https://disroot.org/en)
 * [Restore privacy](https://restoreprivacy.com/)
+* [Anonymous email forwarding](https://anonaddy.com/)
 
 ## Blogs 
 
