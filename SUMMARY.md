@@ -36,6 +36,7 @@
   * [C++](computer-science/programming-languages/cpp.md)
   * [Java](computer-science/programming-languages/java.md)
   * [Julia](computer-science/programming-languages/julia.md)
+  * [Kotlin](computer-science/programming-languages/kotlin.md)
   * [Python](computer-science/programming-languages/python/README.md)
     * [blogs](computer-science/programming-languages/python/blogs.md)
     * [cli](computer-science/programming-languages/python/cli.md)
