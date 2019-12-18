@@ -53,6 +53,7 @@
     * [virtual environments](computer-science/programming-languages/python/virtual-envs.md)
   * [R](computer-science/programming-languages/r.md)
   * [Rust](computer-science/programming-languages/rust.md)
+  * [Unix](computer-science/programming-languages/unix.md)
 * [Team management](computer-science/management.md)
 * [Version control](computer-science/version-control/README.md)
   * [git](computer-science/version-control/git.md)
