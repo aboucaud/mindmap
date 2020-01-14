@@ -7,4 +7,5 @@
 * [HSL color picker](http://hslpicker.com/)
 * [Leon-Sans a font made with code](https://leon-kim.com/examples)
 * [Chromotome](https://kgolid.github.io/chromotome-site/)
+* [Color palettes know how](https://personal.sron.nl/~pault/)
 
