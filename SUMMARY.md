@@ -63,6 +63,7 @@
   * [code snippets](computer-science/visualisation/code-snippets.md)
   * [colors](computer-science/visualisation/colors.md)
   * [drawings](computer-science/visualisation/drawings.md)
+  * [graphs](computer-science/visualisation/graphs.md)
   * [plotting](computer-science/visualisation/plotting.md)
 
 ## Operating Systems
