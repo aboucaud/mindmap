@@ -26,6 +26,7 @@
   * [Ethernet](computer-science/network/ethernet.md)
 * [Programming](computer-science/programming/README.md)
   * [Databases](computer-science/programming/data-bases.md)
+  * [Floating-points](computer-science/programming/floating-point.md)
   * [HPC](computer-science/programming/hpc.md)
   * [Paradigms](computer-science/programming/paradigms.md)
   * [Pipelines](computer-science/programming/pipelines.md)
