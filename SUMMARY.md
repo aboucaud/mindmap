@@ -35,6 +35,7 @@
   * [Awk](computer-science/programming-languages/awk.md)
   * [Bash](computer-science/programming-languages/bash.md)
   * [C++](computer-science/programming-languages/cpp.md)
+  * [Go](computer-science/programming-languages/go.md)
   * [Java](computer-science/programming-languages/java.md)
   * [Julia](computer-science/programming-languages/julia.md)
   * [Kotlin](computer-science/programming-languages/kotlin.md)
