@@ -6,7 +6,11 @@
 [CS 231, Stanford](http://cs231n.github.io) - _Andrej Karpathy_  
 [TensorFlow without a PhD](https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd) - _Martin Gorner_  
 [Deep learning with PyTorch1.0, EPFL](https://fleuret.org/ee559/) - _François Fleuret_ \(2019\)  
-[Dive into Deep Learning](https://www.d2l.ai/)
+[Dive into Deep Learning](https://www.d2l.ai/)  
+[Cours de Machine Learning, Collège de France](https://www.di.ens.fr/~mallat/CoursCollege.html) - _Stéphane Mallat_ \(2018-20\)  
+[Introduction to ML, LMU](https://compstat-lmu.github.io/lecture_i2ml/index.html) - \(2020\)  
+[Introduction to Deep Learning, MIT](https://github.com/aamini/introtodeeplearning) - \(2020\)  
+
 
 ## Online books
 
@@ -32,8 +36,14 @@
 
 ## Recent reviews \(2018\)
 
+
+### 2018
 [Machine learning for physicists](https://arxiv.org/abs/1803.08823)  
-[Understanding DNNs](https://arxiv.org/abs/1803.08834)
+[Understanding DNNs](https://arxiv.org/abs/1803.08834)  
+
+### 2020
+[Machine Learning in Python: Main developments and technology trends in data science, machine learning, and artificial intelligence](https://arxiv.org/abs/2002.04803)  
+[fastai: A Layered API for Deep Learning](https://arxiv.org/abs/2002.04688)
 
 ## TensorFlow
 
