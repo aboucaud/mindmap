@@ -1,4 +1,6 @@
 # Pipelines
 
-[Better usage of make](https://tech.davis-hansson.com/p/make/)
+[Better usage of Make](https://tech.davis-hansson.com/p/make/)  
+
+[Modern CMake](https://cliutils.gitlab.io/modern-cmake/)  
 

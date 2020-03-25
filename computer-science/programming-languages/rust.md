@@ -19,6 +19,8 @@
 * [Implementing a NES Emulator in Rust](http://www.michaelburge.us/2019/03/18/nes-design.html) - _Michael Burge_ \(2019\)
 * [Speeding Python with Rust](https://developers.redhat.com/blog/2017/11/16/speed-python-using-rust) - _Bruno Rocha_ \(2017\)
 * [Working with strings in Rust](https://fasterthanli.me/blog/2020/working-with-strings-in-rust/) - _Amos_ \(2020\)
+* [How I start Rust](https://christine.website/blog/how-i-start-rust-2020-03-15) - _Christine Dodrill_ \(2020\)
+* []()
 
 ## Tutorials
 
