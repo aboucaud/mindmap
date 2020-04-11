@@ -1,4 +1,6 @@
-# Blogs
+# Statistics Blogs
+
+- [Spurious correlations](http://tylervigen.com/spurious-correlations)
 
 ## Blogs
 
