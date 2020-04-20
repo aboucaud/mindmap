@@ -39,6 +39,7 @@
 * [Programming languages](computer-science/programming-languages/README.md)
   * [Awk](computer-science/programming-languages/awk.md)
   * [Bash](computer-science/programming-languages/bash.md)
+  * [Clojure](computer-science/programming-languages/clojure.md)
   * [C++](computer-science/programming-languages/cpp.md)
   * [Go](computer-science/programming-languages/go.md)
   * [Java](computer-science/programming-languages/java.md)
