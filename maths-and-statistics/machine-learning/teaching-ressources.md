@@ -8,6 +8,7 @@
 
 - [Codelab on Keras](https://codelabs.developers.google.com/codelabs/keras-flowers-tpu)
 - [Statistical Rethinking (2nd Ed) with Tensorflow Probability](https://github.com/ksachdeva/rethinking-tensorflow-probability) + [website](https://ksachdeva.github.io/rethinking-tensorflow-probability/)
+- [Eat TF2 in 30 days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days)
 
 ## PyTorch
 
