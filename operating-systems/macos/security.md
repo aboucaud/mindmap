@@ -7,4 +7,4 @@
 ## Apps
 
 * [Google Santa](https://github.com/google/santa) - _a binary whitelisting/blacklisting system for macOS_
-
+* [Key.pub](https://keys.pub/docs/cli/install.html#macos)

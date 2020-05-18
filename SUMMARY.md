@@ -74,6 +74,7 @@
   * [drawings](computer-science/visualisation/drawings.md)
   * [graphs](computer-science/visualisation/graphs.md)
   * [image formats](computer-science/visualisation/image-formats.md)
+  * [manim](computer-science/visualisation/manim.md)
   * [plotting](computer-science/visualisation/plotting.md)
 
 ## Operating Systems
