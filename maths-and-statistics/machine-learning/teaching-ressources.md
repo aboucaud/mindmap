@@ -16,3 +16,6 @@
 - [same on Google colab](https://colab.research.google.com/github/mlelarge/pluton_course)
 
 
+## Videos
+
+- [Visual introduction to NN](https://www.youtube.com/watch?v=UOvPeC8WOt8) - *by vcubingx*
