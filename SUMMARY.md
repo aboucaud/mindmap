@@ -50,6 +50,7 @@
     * [binding](computer-science/programming-languages/python/binding.md)
     * [blogs](computer-science/programming-languages/python/blogs.md)
     * [cli](computer-science/programming-languages/python/cli.md)
+    * [configuration](computer-science/programming-languages/python/configuration.md)
     * [design patterns](computer-science/programming-languages/python/idioms.md)
     * [distributed computing](computer-science/programming-languages/python/distributed.md)
     * [logging](computer-science/programming-languages/python/logging.md)
