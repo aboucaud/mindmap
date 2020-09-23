@@ -8,6 +8,7 @@
 ## Blogs
 
 - [Julia vs Cython and Numba](https://www.stochasticlifestyle.com/why-numba-and-cython-are-not-substitutes-for-julia/) - _Chris Rackauckas_
+- [Classifying MNIST in Julia](https://nextjournal.com/DeepLearningNotes/Ch09ConvolutionalNetwork)
 
 ## Libraries/projects
 
