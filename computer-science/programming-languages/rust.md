@@ -28,4 +28,5 @@
 * [Gentle Introduction to Rust](https://stevedonovan.github.io/rust-gentle-intro/readme.html) - _Steve Donovan_
 * [A rogue-like tutorial](http://bfnightly.bracketproductions.com/rustbook/)
 * [How to debug rust with vscode](https://www.forrestthewoods.com/blog/how-to-debug-rust-with-visual-studio-code/)
+* [Rust starter kit 2020](https://wiki.alopex.li/RustStarterKit2020)
 

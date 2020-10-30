@@ -62,6 +62,7 @@
     * [testing](computer-science/programming-languages/python/testing.md)
     * [typing](computer-science/programming-languages/python/typing.md)
     * [virtual environments](computer-science/programming-languages/python/virtual-envs.md)
+    * [web](computer-science/programming-languages/python/web-dev.md)
   * [R](computer-science/programming-languages/r.md)
   * [Rust](computer-science/programming-languages/rust.md)
   * [Unix](computer-science/programming-languages/unix.md)
